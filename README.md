@@ -153,6 +153,14 @@ Mac  : /var/lib/docker/volumes
 ```
 
 
+## Docker Commit
+Commit is to make a new image from a container
+
+```
+docker commit [container ID] [new image name]
+```
+
+
 ## Dockerfile
 A blueprint for building images
 
