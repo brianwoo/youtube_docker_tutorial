@@ -24,7 +24,7 @@ docker run [image]
 
 ## To Start/Restart a Docker Container
 ```
-docker run [container ID]
+docker start [container ID]
 ```
 
 ## To Stop a Docker Container
